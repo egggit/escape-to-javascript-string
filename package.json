@@ -1,7 +1,7 @@
 {
   "name": "escape-to-javascript-string",
   "main": "./lib/escape-to-javascript-string",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Atom package to add escape with selection text into javascript string",
   "keywords": [
     "JavaScript",
